@@ -1,0 +1,15 @@
+{
+    "name": "quizmate-mvp",
+    "version": "1.0.0",
+    "description": "Just a quizmate runner",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "quiz-mate"
+    },
+    "author": "Roland Brand",
+    "license": "MIT",
+    "dependencies": {
+        "quiz-mate": "^1.1.0"
+    }
+}
